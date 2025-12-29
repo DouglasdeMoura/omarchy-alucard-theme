@@ -1,19 +1,9 @@
-### [Foobar](https://foobar.com)
+### [Omarchy](https://omarchy.org)
 
-#### Install using Git
+#### Installation
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+To install this theme, simply use the `omarchy-theme-install` command:
 
 ```bash
-git clone https://github.com/dracula/foobar.git
+omarchy-theme-install https://github.com/douglasdemoura/omarchy-alucard-theme
 ```
-
-#### Install manually
-
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
