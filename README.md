@@ -2,7 +2,7 @@
 
 > A light theme for [Omarchy](https://omarchy.org/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./preview.png)
 
 ## Install
 
