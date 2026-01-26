@@ -12,6 +12,12 @@ To install this theme, simply use the `omarchy-theme-install` command:
 omarchy-theme-install https://github.com/douglasdemoura/omarchy-alucard-theme
 ```
 
+## VS Code theme
+
+You will need to install the Alucard theme manually, as it is not available on the extensions marketplace right now.
+As the [Dracula](https://draculatheme.com/spec#implementation-guidelines) specification states, the [Cursor theme](https://github.com/dracula/cursor)
+is the reference implementation. Follow the [installation instructions](https://draculatheme.com/cursor), only replacing Cursor with VS Code.
+
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
