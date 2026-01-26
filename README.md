@@ -1,4 +1,4 @@
-# Dracula for [Omarchy](https://omarchy.org/)
+# Alucard for [Omarchy](https://omarchy.org/)
 
 > A light theme for [Omarchy](https://omarchy.org/).
 
