@@ -1,32 +1,45 @@
 mode = "light"
 
-accent = "#644AC9"
-selection = "#CFCFDE"
+# UI colors
+accent = "#644AC9" # Purple
+cursor = "#1F1F1F"
+selection_background = "#CFCFDE"
 selection_foreground = "#1F1F1F"
-muted = "#6C664B"
-
 background = "#FFFBEB"
-dark_background = "#ECE9DF"
-darker_background = "#DEDCCF"
-lighter_background = "#EFEDDC"
-
 foreground = "#1F1F1F"
-dark_foreground = "#6C664B"
-light_foreground = "#2C2B31"
-bright_foreground = "#2C2B31"
 
+# Terminal palette (Alucard Classic ANSI)
+color0 = "#FFFBEB" # AnsiBlack
+color1 = "#CB3A2A" # AnsiRed
+color2 = "#14710A" # AnsiGreen
+color3 = "#846E15" # AnsiYellow
+color4 = "#644AC9" # AnsiBlue
+color5 = "#A3144D" # AnsiMagenta
+color6 = "#036A96" # AnsiCyan
+color7 = "#1F1F1F" # AnsiWhite
+color8 = "#6C664B" # AnsiBrightBlack
+color9 = "#D74C3D" # AnsiBrightRed
+color10 = "#198D0C" # AnsiBrightGreen
+color11 = "#9E841A" # AnsiBrightYellow
+color12 = "#7862D0" # AnsiBrightBlue
+color13 = "#BF185A" # AnsiBrightMagenta
+color14 = "#047FB4" # AnsiBrightCyan
+color15 = "#2C2B31" # AnsiBrightWhite
+
+# Dracula spec palette (Alucard Classic)
 red = "#CB3A2A"
-yellow = "#846E15"
 orange = "#A34D14"
+yellow = "#846E15"
 green = "#14710A"
 cyan = "#036A96"
-blue = "#644AC9"
-magenta = "#A3144D"
-brown = "#52270A"
+purple = "#644AC9"
+pink = "#A3144D"
+comment = "#6C664B"
+current_line = "#6C664B"
 
-bright_red = "#D74C3D"
-bright_yellow = "#9E841A"
-bright_green = "#198D0C"
-bright_cyan = "#047FB4"
-bright_blue = "#7862D0"
-bright_magenta = "#BF185A"
+# UI palette (Alucard Classic)
+floating = "#EFEDDC"
+background_lighter = "#ECE9DF"
+background_light = "#DEDCCF"
+background_dark = "#CECCC0"
+background_darker = "#BCBAB3"
