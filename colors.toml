@@ -43,3 +43,12 @@ background_lighter = "#ECE9DF"
 background_light = "#DEDCCF"
 background_dark = "#CECCC0"
 background_darker = "#BCBAB3"
+
+# Extended keys consumed by Omarchy templates (Neovim, shell, lock screen)
+muted = "#6C664B" # Comment / Current Line
+dark_foreground = "#6C664B"
+light_foreground = "#2C2B31"
+bright_foreground = "#2C2B31" # also used as the cursor color
+dark_background = "#ECE9DF" # spec: Background Lighter
+darker_background = "#DEDCCF" # spec: Background Light
+lighter_background = "#EFEDDC" # spec: Floating interactive elements
