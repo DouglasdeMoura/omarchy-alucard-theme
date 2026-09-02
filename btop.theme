@@ -8,7 +8,7 @@ theme[main_fg]="#1f1f1f"
 theme[title]="#1f1f1f"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#6c664b"
+theme[hi_fg]="#644ac9"
 
 # Background color of selected item in processes box
 theme[selected_bg]="#a3144d"
@@ -17,7 +17,7 @@ theme[selected_bg]="#a3144d"
 theme[selected_fg]="#fffbeb"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#cfcfde"
+theme[inactive_fg]="#6c664b"
 
 # Color of text appearing on top of graphs, i.e uptime and current network graph scaling
 theme[graph_text]="#1f1f1f"
@@ -87,3 +87,13 @@ theme[upload_end]="#bf185a"
 theme[process_start]="#14710a"
 theme[process_mid]="#846e15"
 theme[process_end]="#6c664b"
+
+# Graph gradient colors (spectrum shades from background to foreground)
+theme[gradient_color_0]="#fffbeb"
+theme[gradient_color_1]="#efeddc"
+theme[gradient_color_2]="#cfcfde"
+theme[gradient_color_3]="#6c664b"
+theme[gradient_color_4]="#6c664b"
+theme[gradient_color_5]="#1f1f1f"
+theme[gradient_color_6]="#2c2b31"
+theme[gradient_color_7]="#2c2b31"
